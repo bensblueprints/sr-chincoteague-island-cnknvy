@@ -1,0 +1,1 @@
+{"id":"/_next/static/chunks/11fakh-7e0m7q.js","path":"/_next/static/chunks/11fakh-7e0m7q.js","sha":"2586d7179c91c4f18d23fe53b84b9021123f50f9","mime_type":"application/javascript","size":6232,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}

@@ -1,0 +1,1 @@
+{"id":"/_next/static/chunks/17kwnpk-g-3ib.js","path":"/_next/static/chunks/17kwnpk-g-3ib.js","sha":"e588b26d06daaf87eeef75362942790ce5bb74b7","mime_type":"application/javascript","size":144266,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}

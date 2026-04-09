@@ -1,0 +1,1 @@
+{"id":"/_next/static/chunks/turbopack-0.0ihtsv9p_1a.js","path":"/_next/static/chunks/turbopack-0.0ihtsv9p_1a.js","sha":"6f843ac58375f9d4e683309d9d0adeaad080de0b","mime_type":"application/javascript","size":10580,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}

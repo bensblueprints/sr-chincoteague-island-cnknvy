@@ -1,0 +1,1 @@
+{"id":"/_next/static/yqk-verahkvmrugmdzrnl/_ssgmanifest.js","path":"/_next/static/yqk-verahkvmrugmdzrnl/_ssgmanifest.js","sha":"011268d6627898dc2caac8b9678086cd9b9a7dfe","mime_type":"application/javascript","size":80,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}
