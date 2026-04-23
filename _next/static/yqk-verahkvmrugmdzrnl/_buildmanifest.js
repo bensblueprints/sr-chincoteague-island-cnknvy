@@ -1,1 +1,11 @@
-{"id":"/_next/static/yqk-verahkvmrugmdzrnl/_buildmanifest.js","path":"/_next/static/yqk-verahkvmrugmdzrnl/_buildmanifest.js","sha":"e8cf7adcc68be2b4cb8913d46b913ab4a71668bc","mime_type":"application/javascript","size":219,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}
+self.__BUILD_MANIFEST = {
+  "__rewrites": {
+    "afterFiles": [],
+    "beforeFiles": [],
+    "fallback": []
+  },
+  "sortedPages": [
+    "/_app",
+    "/_error"
+  ]
+};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

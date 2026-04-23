@@ -1,1 +1,6 @@
-{"id":"/pony-tours/__next.pony-tours/__page__.txt","path":"/pony-tours/__next.pony-tours/__page__.txt","sha":"df64bf995eb2a3bf91df08098972326ffb459244","mime_type":"text/plain","size":446,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}
+1:"$Sreact.fragment"
+3:I[8510,["/_next/static/chunks/10fca6a49mhj8.js","/_next/static/chunks/0v.wn.k4.bqqi.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YQK-vERAHKVMRuGMDzrnl"}
+5:null
+2:E{"digest":"NEXT_REDIRECT;replace;/nature-tours;307;"}

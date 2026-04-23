@@ -1,1 +1,5 @@
-{"id":"/nature-tours/__next.nature-tours.txt","path":"/nature-tours/__next.nature-tours.txt","sha":"cba37621b21f70abda36fb704e65a2ac4417fa4d","mime_type":"text/plain","size":445,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}
+1:"$Sreact.fragment"
+2:I[24653,["/_next/static/chunks/10fca6a49mhj8.js","/_next/static/chunks/0v.wn.k4.bqqi.js"],"default"]
+3:I[96963,["/_next/static/chunks/10fca6a49mhj8.js","/_next/static/chunks/0v.wn.k4.bqqi.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"YQK-vERAHKVMRuGMDzrnl"}

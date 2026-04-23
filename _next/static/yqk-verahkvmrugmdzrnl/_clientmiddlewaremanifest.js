@@ -1,1 +1,1 @@
-{"id":"/_next/static/yqk-verahkvmrugmdzrnl/_clientmiddlewaremanifest.js","path":"/_next/static/yqk-verahkvmrugmdzrnl/_clientmiddlewaremanifest.js","sha":"9ae8c9aa991e3f34f0594f8c728c7fcc9fbb6f3d","mime_type":"application/javascript","size":96,"site_id":"e8c388f5-347f-44b5-8ca4-ab4c8b276d73","deploy_id":"69d6b80fccc768479b435214"}
+self.__MIDDLEWARE_MATCHERS = [];self.__MIDDLEWARE_MATCHERS_CB && self.__MIDDLEWARE_MATCHERS_CB()
