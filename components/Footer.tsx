@@ -74,8 +74,16 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 pt-8 border-t border-white/10 text-center text-xs text-white/40">
-          © {new Date().getFullYear()} {site.name}. All rights reserved.
+        <div className="mt-12 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-white/40">
+          <div>© {new Date().getFullYear()} {site.name}. All rights reserved.</div>
+          <div className="flex gap-5">
+            <Link href="/cancellation-policy" className="hover:text-accent transition-colors">
+              Cancellation Policy
+            </Link>
+            <Link href="/contact" className="hover:text-accent transition-colors">
+              Contact
+            </Link>
+          </div>
         </div>
       </div>
     </footer>
