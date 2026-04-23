@@ -176,7 +176,7 @@ export default function NatureToursPage() {
         <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
           <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
             <Image
-              src="/assets/carolina-skiff.jpeg"
+              src="/assets/images/carolina-skiff.jpeg"
               alt="Captain Randy's 24' Carolina Skiff"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
