@@ -9,6 +9,7 @@ const nav = [
   { href: "/nature-tours", label: "Nature Tours" },
   { href: "/pony-swim", label: "Pony Swim" },
   { href: "/hunting", label: "Hunting" },
+  { href: "/brochure", label: "Brochure" },
   { href: "/directions", label: "Directions" },
   { href: "/contact", label: "Contact" },
 ];
