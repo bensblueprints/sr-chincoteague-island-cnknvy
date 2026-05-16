@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { site } from "@/lib/site";
 import { CTASection } from "@/components/CTASection";
+import { VideoHero } from "@/components/VideoHero";
 
 const experiences = [
   {
@@ -63,16 +64,7 @@ export default function HomePage() {
       {/* Hero with video */}
       <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
-          <video
-            autoPlay
-            muted
-            loop
-            playsInline
-            poster="/assets/images/image-0.webp"
-            className="w-full h-full object-cover"
-          >
-            <source src="/assets/hero-video.mp4" type="video/mp4" />
-          </video>
+          <VideoHero />
         </div>
         <div className="absolute inset-0 bg-gradient-to-b from-dark/60 via-dark/40 to-dark/70" />
         <div className="relative z-10 text-center px-6 max-w-5xl">
