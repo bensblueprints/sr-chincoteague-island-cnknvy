@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  BUILD_TARGET = "static"
+  NODE_VERSION = "20"
