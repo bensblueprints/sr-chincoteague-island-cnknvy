@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Playfair_Display, Source_Sans_3 } from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { CallButton } from "@/components/CallButton";
 import { site } from "@/lib/site";
 import "./globals.css";
 
@@ -52,10 +53,20 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${playfair.variable} ${source.variable} h-full antialiased`}>
+      <head>
+        {/* Google Ads tag */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18168237989" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','AW-18168237989');`,
+          }}
+        />
+      </head>
       <body className="min-h-full flex flex-col">
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <CallButton />
       </body>
     </html>
   );

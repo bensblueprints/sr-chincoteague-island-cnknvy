@@ -5,3 +5,11 @@
 [build.environment]
   BUILD_TARGET = "static"
   NODE_VERSION = "20"
+
+[[redirects]]
+  from = "/*"
+  to = "https://www.chincoteagueislandadventures.com/:splat"
+  status = 301
+  force = true
+  [redirects.conditions]
+    host = ["pony.advancedmarketing.co"]
